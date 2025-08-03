@@ -11,7 +11,7 @@ Software Engineer with a specialized background in <strong>Geoprocessing</strong
 📫 Get in Touch | Entre em Contato
 <div align="left">
 
-<a href="https://www.google.com/search?q=https://linkedin.com/in/mizaelalves" target="_blank">
+<a href="https://linkedin.com/in/mizaelalves" target="_blank">
 
 <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 
